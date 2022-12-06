@@ -45,8 +45,6 @@
 </div>
 <div align=center>
    <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=95Glory&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=95Glory&show_icons=true">
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
    
