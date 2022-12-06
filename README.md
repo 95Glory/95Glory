@@ -1,8 +1,16 @@
 <div align=center>
    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Glory%20Github!&fontSize=90" />   
+</div>  
+<div align=center>
+   안녕하세요! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>
+   현재 백엔드 개발자가 되기 위해 공부하고 있습니다.<br><br>
+   
+   💡 저에대한 간단한 소개가 담겨있어요! 💡 <br><br>
+<a href="https://www.notion.so/86f034ac153b48da8f4480c481bd856e"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Conda-Notion&logoColor=white" /></a><br><br>
 </div>
-### 안녕하세요! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-백엔드 개발자가 되고싶은 김영광입니다.
+
+
+
 <div align=center>
    <h3>📚 Tech Stack 📚</h3>
    <p>✨ Platforms & Languages ✨</p>
