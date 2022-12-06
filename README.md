@@ -1,6 +1,8 @@
 <div align=center>
    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Glory%20Github!&fontSize=90" />   
 </div>
+### 안녕하세요! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+백엔드 개발자가 되고싶은 김영광입니다.
 <div align=center>
    <h3>📚 Tech Stack 📚</h3>
    <p>✨ Platforms & Languages ✨</p>
